@@ -1,0 +1,37 @@
+.yo {
+    font-size: 1rem;
+
+    width: 10rem;
+    height: 3.5rem;
+    border-radius: 1.5rem;
+    background-color: rgb(192, 190, 190);
+    margin: auto;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.miniimagen {
+    width: 57%;
+    height: 25rem;
+    background-color: gray;
+    margin: auto;
+    margin-top: 4.3rem;
+    padding: 1.3rem ;
+   
+    position: relative;
+}
+
+.miniimagen img {
+    width: 83%;
+    height: 25rem;
+    object-fit: cover;
+    /*object-position: bottom;*/
+    border: 0.8rem solid white;
+
+    position: absolute;
+    top: -1rem;
+    left: 1.3rem;
+
+}

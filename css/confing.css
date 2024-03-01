@@ -1,0 +1,13 @@
+* {
+}
+
+html {
+    font-size: 10px;
+    font-family: monospace;
+}
+
+.pantalla {
+    max-width: 37.5rem;
+    margin: auto;
+    padding: 1rem;
+}
